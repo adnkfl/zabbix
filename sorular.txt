@@ -1,0 +1,52 @@
+Kaç adet host var?
+Kaç adet ağ cihazı var?
+Kaç tane SNMP cihazı var?
+Kaç tane Agent ile izlenen host var?
+Kaç host şu anda erişilebilir?
+Kaç host erişilemez durumda?
+Tüm hostların listesini göster.
+Ağ cihazlarının listesini ver.
+Şu anda up olan hostların isimleri neler?
+Down olan ağ cihazlarını listele.
+
+En uzun süredir açık olan host hangisi?
+Hostların ortalama uptime süresi nedir?
+Linux işletim sistemine sahip kaç host var?
+Windows olan hostların isimleri neler?
+Ağ cihazlarından SNMP ile izlenenlerin isimlerini söyle.
+
+
+Kaç network cihazı var?
+Kaç ağ cihazı var?
+Network cihazı sayısı kaç?
+
+
+CPU ve bellek kullanımları genel olarak nasıl?
+Tüm hostların ortalama CPU kullanımı nedir?
+En yüksek CPU kullanımına sahip host hangisi?
+En düşük CPU kullanımına sahip host hangisi?
+En düşük CPU kullanımına sahip host kim?
+Şu anda CPU kullanımı normal olan hostlar hangileri?
+CPU kullanımı %20’in üzerinde olan hostlar hangileridir.
+MEM kullanımı %20’in üzerinde olan hostlar hangileridir.
+Tüm hostların ortalama bellek (MEM) kullanımı kaç?
+CPU kullanımına göre en yüksek değerlere sahip hostları listeler misin?
+
+
+
+kontrole devam edeceğim aşağıdakileri
+
+Bellek kullanımına göre en yüksek değerlere sahip hostlar neler?
+En yüksek bellek kullanımına sahip host hangisi?
+En düşük bellek kullanımına sahip host kim?
+Şu anda bellek kullanımı normal olan hostlar hangileri?
+Bellek kullanımı %70’in üzerinde olan hostları listeler misin?
+
+
+Tüm hostların CPU ve bellek kullanımları arasında ortalama değer nedir?
+
+
+
+
+
+
